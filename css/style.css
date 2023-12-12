@@ -2,11 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Poppins:wght@600;700&family=Quattrocento+Sans:wght@400;700&family=Roboto:wght@300;900&display=swap');
 
 /*Importing all components file*/
-@import url('components/container.css');
+
 @import url('components/avatar.css');
 @import url('components/banner.css');
 @import url('components/button.css');
-
+@import url('components/card.css');
+@import url('components/cards.css');
+@import url('components/container.css');
 
 /*General style rules for fonts and colours*/
 body{
